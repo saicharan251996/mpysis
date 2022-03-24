@@ -8,7 +8,7 @@ class CheckEvenOdd
     System.out.println("Enter an Integer number:
                       );
 
-    //The input provided by user is stored in num
+    //The 
     Scanner input = new Scanner(System.in);
     num = input.nextInt();
 
